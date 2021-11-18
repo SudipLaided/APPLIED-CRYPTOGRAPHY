@@ -1,0 +1,6 @@
+IS A HILL CIPHER FOR 2 X 2 Matrix
+USAGE:
+
+$gcc HILL_CIPHER.c -o HILL_CIPHER
+$./HILL_CIPHER -e for encryption.
+$./HILL_CIPHER -d for decryption.
